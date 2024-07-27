@@ -1,0 +1,134 @@
+*{
+    background-color: rgb(39, 39, 110);
+}
+
+.body{
+    width:100%;
+    height: 100vh;
+    background-color: rgb(255, 255, 255);
+}
+
+.city{
+    padding: 5px 15px;
+    border: 2px solid rgb(39, 39, 110);
+    border-radius: 5px;
+    background-color: white;
+}
+
+.search{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    gap:5px;
+    background-color: rgb(255, 255, 255); 
+}
+
+.first{
+    background-color: rgb(255, 255, 255); 
+    position: absolute;
+    top:200px;
+    left:550px;
+    height:55vh;
+    width:30vw;
+    border: 4px solid rgb(39, 39, 110);
+    justify-content:center ;
+    text-align: center;
+    padding-top: 20px;
+    border-radius: 20px;
+    z-index: 1;
+    font-weight: bold;
+    font-size: 20px;
+    color: rgb(39, 39, 110);;
+}
+
+.fi{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    text-align: center;
+    gap:20px;
+}
+
+.searchbut{
+    border: 2px solid rgb(39, 39, 110);
+    padding: 5px 10px;
+    border-radius: 5px;
+    background-color: rgb(255, 255, 255);
+    cursor:pointer;
+}
+
+
+
+ .foone{
+    color: rgb(39, 39, 110);
+    font-size: 30px;
+    padding-bottom: 30px;
+    background-color: white;
+ }
+
+ .fion{
+    padding-top: 20px;
+    padding-left:20px;
+    padding-right:20px;
+    padding-bottom: 20px;
+    border: 2px solid rgb(181, 181, 225);
+    border-radius: 10px;
+    background-color: rgb(39, 39, 110);
+ }
+
+ .fitw{
+    padding-top: 20px;
+    padding-left:20px;
+    padding-right:20px;
+    padding-bottom: 20px;
+    border: 2px solid rgb(181, 181, 225);
+    border-radius: 10px;
+    background-color: rgb(39, 39, 110);
+ }
+
+ .fith{
+    padding-top: 20px;
+    padding-left:20px;
+    padding-right:20px;
+    padding-bottom: 20px;
+    border: 2px solid rgb(181, 181, 225);
+    border-radius: 10px;
+    background-color: rgb(39, 39, 110);
+ }
+
+ .sunny{
+    padding-top: 20px;;
+    background-color: white;
+ }
+
+ .imgg{
+    background-color: rgb(255, 255, 255);
+ }
+
+ .on{
+    background-color: white;
+    padding-top: 20px;
+ }
+
+ .tw{
+    background-color: white;
+    font-size: 30px;
+ }
+
+ .th{
+    background-color: white;
+ }
+
+ .fo{
+    background-color: white;
+ }
+
+ .fi{
+    background-color: white;
+    color: white;
+ }
+
+ .si{
+    background-color: white;
+    color:  rgb(39, 39, 110);
+ }
